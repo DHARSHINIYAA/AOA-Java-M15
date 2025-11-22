@@ -25,6 +25,7 @@ A valid flower assignment always exists
 <img width="177" height="292" alt="image" src="https://github.com/user-attachments/assets/36aa40cb-1cdd-4746-b1a6-fc51ce6e96aa" />
 
 ## Algorithm
+
 1. Start and read the number of gardens n and paths m.
 
 2.Build an adjacency list to represent which gardens are connected.
